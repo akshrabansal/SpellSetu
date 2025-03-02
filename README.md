@@ -4,6 +4,14 @@ SpellSetu is a robust bilingual text correction system designed for both English
 
 ---
 
+## Contributors
+
+- **Anushka & Akshra Bansal**
+
+See the [contributors list]([https://github.com/Anushkatech5],[https://github.com/akshrabansal)
+
+---
+
 ## Problem Statement
 
 SpellSetu addresses the challenge of correcting spelling mistakes and inappropriate word usage in bilingual contexts (English and Hindi). Many existing solutions focus on only one language or do not incorporate context into their corrections, leading to suboptimal results.
