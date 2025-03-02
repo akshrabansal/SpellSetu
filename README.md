@@ -22,10 +22,10 @@ SpellSetu addresses the challenge of correcting spelling mistakes and inappropri
 
 ## How SpellSetu Works
 
-1. **Dictionary Loading:**  
-2. **Error Detection and Correction:**  
-3. **Optional Fine-Tuning:**     
-4. **Interactive Evaluation:**
+1. **Dictionary Loading**  
+2. **Error Detection and Correction**  
+3. **Optional Fine-Tuning**     
+4. **Interactive Evaluation**
 
 ---
 
