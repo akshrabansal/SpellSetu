@@ -7,8 +7,8 @@ SpellSetu is a robust bilingual text correction system designed for both English
 ## Contributors
 
 - **Anushka & Akshra Bansal**
-
-See the [contributors list]([https://github.com/Anushkatech5],[https://github.com/akshrabansal)
+- [Anushkatech5](https://github.com/Anushkatech5)
+- [akshrabansal](https://github.com/akshrabansal)
 
 ---
 
